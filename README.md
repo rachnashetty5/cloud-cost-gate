@@ -235,6 +235,6 @@ You are free to use, modify, distribute, and contribute to this project under th
 
 ## Author
 
-**R Priyanka**
+**Rachana Shetty**
 
-GitHub: https://github.com/rpriyanka30
+GitHub: https://github.com/rachnashetty5
